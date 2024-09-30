@@ -28,9 +28,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: TUI
       tag: ML
-    - name: Computer Vision
+    - name: Robotics
       tag: CV
     - name: NLP
       tag: NLP
