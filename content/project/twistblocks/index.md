@@ -19,5 +19,6 @@ links:
     url: 'https://www.bilibili.com/video/BV1Gx41177ED'
 
 
-text: this is abstract...
+image: 
+  preview_only: true
 ---
