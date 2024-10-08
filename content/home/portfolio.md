@@ -38,7 +38,7 @@ content:
 design:
   columns: '1'
   view: showcase
-  flip_alt_rows: false
+  # flip_alt_rows: false
   # background: {}
   # spacing: {padding: [0, 0, 0, 0]}
 ---
