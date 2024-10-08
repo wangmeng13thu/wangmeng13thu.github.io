@@ -18,5 +18,9 @@ links:
     name: video
     url: 'https://www.bilibili.com/video/BV1Gx41177ED'
 
-this is the abstract
+sections:
+  - block: markdown
+    id: abstract
+    content:
+      text: this is abstract...
 ---
