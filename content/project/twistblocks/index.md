@@ -1,6 +1,6 @@
 ---
 
-title: Twistblocks : Pluggable and Twistable Modular TUI for Armature Interaction in 3D Design
+title: Twistblocks ':' Pluggable and Twistable Modular TUI for Armature Interaction in 3D Design
 
 tags:
   - TUI
