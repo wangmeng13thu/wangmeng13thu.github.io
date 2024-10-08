@@ -1,7 +1,7 @@
 ---
 
-title: TwistBlocks 
-# summary: Write about your project here...
+title: Twistblocks : Pluggable and Twistable Modular TUI for Armature Interaction in 3D Design
+
 tags:
   - TUI
 profile: false
