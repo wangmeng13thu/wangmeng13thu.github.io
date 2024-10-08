@@ -18,4 +18,3 @@ author: admin
 #  css_class: fullscreen
 ---
 
-coming soon
