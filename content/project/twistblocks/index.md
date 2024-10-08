@@ -1,7 +1,8 @@
 ---
 
 title: TwistBlocks
-summary: Pluggable and Twistable Modular TUI for Armature Interaction in 3D Design
+summary: ''
+subtitle: Pluggable and Twistable Modular TUI for Armature Interaction in 3D Design
 tags:
   - TUI
 profile: false
@@ -23,4 +24,4 @@ image:
   preview_only: true
 ---
 The use of armatures is a convenient way of deforming and animating 3D digital models. However, interact with an armature is usually time-consuming, and often requires professional skills. Tangible interfaces, such as building blocks, while having improved the accessibility of digital construction, are still lacking in flexibility and present difficulties in dealing with curved armatures. This paper introduces TwistBlocks, a pluggable and twistable modular TUI that improves the accessibility of 3D modeling and animating by physical armature interaction. TwistBlocks is capable of creating complex armatures with dense branches, and supports a high DOF (Degree of Freedom) in physical manipulation. In addition, a set of software tools are provided for novice users to easily create, rig, and animate models. The global-posture sensing network sensing scheme can also measure the rotation and movement of the physical armature, and enables interaction between multiple models.
-{{< bilibili id="BV1WV4y1r7DF" >}}
+{{< bilibili BV1WV4y1r7DF >}}
