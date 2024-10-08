@@ -6,24 +6,24 @@ title: Meng Wang (王濛)
 superuser: true
 
 # Role/position
-role: 'Researcher'
+role: 'Research Scientist'
 
 # Status emoji
 status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
+organizations:
+- name: BIGAI
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
