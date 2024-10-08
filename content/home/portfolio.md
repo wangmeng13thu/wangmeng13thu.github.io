@@ -29,7 +29,7 @@ content:
     - name: All
       tag: '*'
     - name: TUI
-      tag: ML
+      tag: TUI
     - name: Robotics
       tag: CV
     - name: NLP
