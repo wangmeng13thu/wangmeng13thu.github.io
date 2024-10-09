@@ -14,8 +14,8 @@ weight: 10
 
 title: |2-
     Ph.D. in Design 
-    ### Science Columnist for Guokr 
-    ### LEGO MOCer
+    ## Science Columnist for Guokr 
+    ## LEGO MOCer
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

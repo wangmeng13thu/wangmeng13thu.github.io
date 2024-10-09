@@ -45,7 +45,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:mengwangthu@gmail.com' # For a direct email link, use "mailto:test@example.org".
 
 # Uncomment below for Github link
 #- icon: github
