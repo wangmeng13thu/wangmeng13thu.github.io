@@ -6,9 +6,7 @@ title: Meng Wang (王濛)
 superuser: true
 
 # Role/position
-role: 
-- 'Research Scientist'
-- CCF senior member
+role: 'Research Scientist'
 
 # Status emoji
 status:
