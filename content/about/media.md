@@ -23,29 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - 
-    date_start: '2020-03-13'
-
+  - date_start: '2020-03-13'
     organization: 清华博士后
-
     title: 清华“水木学者”系列专访—— 王濛：交叉学科背景下的人机交互探索 
     url: https://www.sohu.com/a/379837852_694004
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - date_start: '2021-04-05'
+    organization: 2021哈佛中国教育论坛
+    title: STEAM与创新教育主题 K-12教育分论坛
+    url: https://www.hgseces.org/2021-panels
+
 
 design:
   columns: '1'
