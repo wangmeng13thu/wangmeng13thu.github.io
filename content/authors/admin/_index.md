@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: BIGAI
+- name: Beijing Institute for General Artificial Intelligence (BIGAI)
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)

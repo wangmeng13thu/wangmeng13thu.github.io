@@ -11,6 +11,7 @@ weight: 10
 author: admin
 design:
   columns: '2'
+  view: card
 #design:
 #  background:
 #    color: '#090a0b'
@@ -21,6 +22,9 @@ design:
 ---
 
 ddddddd
+
 dsfffffffffffffffffff
+
 fgdddddddddddddd
+
 gfddddddddddddd
