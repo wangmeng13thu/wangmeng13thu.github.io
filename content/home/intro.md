@@ -9,22 +9,5 @@ headless: true
 weight: 10
 
 author: admin
-design:
-  columns: '2'
-  view: card
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+
 ---
-
-ddddddd
-
-dsfffffffffffffffffff
-
-fgdddddddddddddd
-
-gfddddddddddddd
