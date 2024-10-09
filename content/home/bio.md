@@ -2,7 +2,7 @@
 # Page title
 # title: My page
 # Page type - we want a landing page (such as a homepage)
-type: pages
+
 headless: true
 weight: 15
 title: ''
@@ -21,3 +21,5 @@ content:
     #   # For the Showcase view, do you want to flip alternate rows?
     #   flip_alt_rows: true
 ---
+
+dddddd
