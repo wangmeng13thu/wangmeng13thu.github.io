@@ -24,12 +24,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - 
-    date_start: '2021-01-25'
+    date_start: '2020-03-13'
 
-    organization: Coursera
+    organization: 清华博士后
 
-    title: Neural Networks and Deep Learning
-
+    title: 清华“水木学者”系列专访—— 王濛：交叉学科背景下的人机交互探索 
+    url: https://www.sohu.com/a/379837852_694004
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
