@@ -14,10 +14,10 @@ links:
     icon: link
     name: paper
     url: 'https://dl.acm.org/doi/abs/10.1145/3173225.3173231'
-  - icon_pack: fas
-    icon: film
-    name: video
-    url: 'https://www.bilibili.com/video/BV1Gx41177ED'
+  # - icon_pack: fas
+  #   icon: film
+  #   name: video
+  #   url: 'https://www.bilibili.com/video/BV1Gx41177ED'
 
 
 image: 
