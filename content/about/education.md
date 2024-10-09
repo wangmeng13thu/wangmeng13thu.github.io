@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Ph.D. Academy of Arts and Design
+    company: Tsinghua University
+    company_url: ''
+    #company_logo: org-x
+    #location: California
+    date_start: '2016-09-01'
+    date_end: '2019-07-01'
+    description: |2-
+        * Outstanding Ph.D. Graduate of Tsinghua University
+        * ZhangDing Scholarship
+
+
   - title: M.A. Interdisciplinary Program of Information Art Design
     company: Tsinghua University
     company_url: ''
@@ -29,18 +41,27 @@ experience:
     #location: California
     date_start: '2013-09-01'
     date_end: '2016-07-01'
-    description: 
-      outstanding
-      outstanding
+    description: |2-
+        * Outstanding Master's Graduate of Tsinghua University
+        * National Scholarship
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: B.A. Dual Bachelor Degree of Digital Entertainment Design
+    company: Tsinghua University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    #company_logo: org-x
+    #location: California
+    date_start: '2010-09-01'
+    date_end: '2013-07-01'
+
+    
+  - title: B.S. Department of Precision Instrumentation & Mechanology
+    company: Tsinghua University
+    company_url: ''
+    #company_logo: org-x
+    #location: California
+    date_start: '2009-09-01'
+    date_end: '2013-07-01'
+
 
 design:
   columns: '1'
