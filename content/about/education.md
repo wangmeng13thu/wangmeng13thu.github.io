@@ -48,7 +48,7 @@ experience:
   - title: B.A. Tsinghua University
     company: Dual Bachelor Degree of Digital Entertainment Design
     company_url: ''
-    #company_logo: org-x
+    company_logo: https://www.tsinghua.edu.cn/image/logo180.png
     #location: California
     date_start: '2010-09-01'
     date_end: '2013-07-01'

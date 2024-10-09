@@ -13,7 +13,6 @@ headless: true
 weight: 10
 
 title: Ph.D. in Design
-subtitle: Tsinghua University
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
