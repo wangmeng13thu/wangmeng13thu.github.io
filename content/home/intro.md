@@ -9,6 +9,8 @@ headless: true
 weight: 10
 
 author: admin
+design:
+  columns: '2'
 #design:
 #  background:
 #    color: '#090a0b'
@@ -19,3 +21,6 @@ author: admin
 ---
 
 ddddddd
+dsfffffffffffffffffff
+fgdddddddddddddd
+gfddddddddddddd
