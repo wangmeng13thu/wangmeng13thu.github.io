@@ -5,6 +5,8 @@
 # type: landing
 headless: true
 weight: 15
+title: ''
+subtitle: ''
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
