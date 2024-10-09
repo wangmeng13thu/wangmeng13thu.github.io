@@ -34,8 +34,8 @@ experience:
         * ZhangDing Scholarship
 
 
-  - title: M.A. Interdisciplinary Program of Information Art Design
-    company: Tsinghua University
+  - title: M.A. Tsinghua University
+    company: Interdisciplinary Program of Information Art Design
     company_url: ''
     #company_logo: org-x
     #location: California
