@@ -6,7 +6,9 @@ title: Meng Wang (王濛)
 superuser: true
 
 # Role/position
-role: 'Research Scientist'
+role: 
+- 'Research Scientist'
+- CCF senior member
 
 # Status emoji
 status:
@@ -18,12 +20,13 @@ organizations:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Tangible Interfaces
+- Modular Robotics
+- Intelligence Design
+- Tactile Sensing 
 
 #education:
 #  courses:
