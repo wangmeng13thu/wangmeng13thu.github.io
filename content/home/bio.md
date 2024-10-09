@@ -10,17 +10,12 @@ subtitle: ''
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  # A section to display blog posts
-  - block: collection
+  - block: markdown
     id: section-1
     content:
       title: Section 1
       subtitle: A subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      # Display content from the `content/post/` folder
-      filters:
-        folders:
-          - post
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
