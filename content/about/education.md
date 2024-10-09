@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ph.D. Academy of Arts and Design
-    company: Tsinghua University
+  - title: Ph.D. Tsinghua University
+    company: Academy of Arts and Design
     company_url: ''
     #company_logo: org-x
     #location: California
@@ -45,8 +45,8 @@ experience:
         * Outstanding Master's Graduate of Tsinghua University
         * National Scholarship
 
-  - title: B.A. Dual Bachelor Degree of Digital Entertainment Design
-    company: Tsinghua University
+  - title: B.A. Tsinghua University
+    company: Dual Bachelor Degree of Digital Entertainment Design
     company_url: ''
     #company_logo: org-x
     #location: California
@@ -54,8 +54,8 @@ experience:
     date_end: '2013-07-01'
 
     
-  - title: B.S. Department of Precision Instrumentation & Mechanology
-    company: Tsinghua University
+  - title: B.S. Tsinghua University
+    company: Department of Precision Instrumentation & Mechanology
     company_url: ''
     #company_logo: org-x
     #location: California

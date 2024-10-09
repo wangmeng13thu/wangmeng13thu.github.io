@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Scientist 
-    company: |2-
+    company: |
         National Key Laboratory of General Artificial Intelligence
         Beijing Institute for General Artificial Intelligence 
     company_url: ''
