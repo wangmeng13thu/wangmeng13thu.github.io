@@ -23,17 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Scientist 
-    company: |
-        National Key Laboratory of General Artificial Intelligence
-        Beijing Institute for General Artificial Intelligence 
+    company: |2-
+        * National Key Laboratory of General Artificial Intelligence
+        * Beijing Institute for General Artificial Intelligence 
     company_url: ''
     #company_logo: org-x
     #location: California
     date_start: '2021-09-01'
 
     description: |2-
-        * Outstanding Ph.D. Graduate of Tsinghua University
-        * ZhangDing Scholarship
+        * CCF Senior Member
+        * Executive committee member of CCF HCI
 
   - title: Postdoctoral Researcher 
     company: Tsinghua University Future Laboratory 
@@ -43,8 +43,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2021-10-01'
     description: |2-
-      Fellowship of China Postdoctoral Science Foundation
-      Shuimu Scholar
+        * Fellowship of China Postdoctoral Science Foundation
+        * Shuimu Scholar
 
 
 design:
