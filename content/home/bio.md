@@ -8,11 +8,13 @@ weight: 15
 title: ''
 subtitle: ''
 
-
-content:
-    title: Section 1
-    subtitle: A subtitle
-    text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+image:
+  placement: 1
+  caption: 'Photo by [Geo](https://github.com/gcushen/)'
+  focal_point: 'Left'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+  filename: icon.png
     # design:
     #   # Choose how many columns the section has. Valid values: '1' or '2'.
     #   columns: '1'
