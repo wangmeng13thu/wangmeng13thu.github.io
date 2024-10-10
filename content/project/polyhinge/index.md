@@ -2,7 +2,7 @@
 
 title: PolyHinge
 summary: _IADIS IHCI'17_
-subtitle: PolyHinge:Shape Changing TUI on Tabletop -- _IADIS IHCI'17_
+subtitle: "PolyHinge: Shape Changing TUI on Tabletop -- _IADIS IHCI'17_"
 lastmod : 2017-07-07
 tags:
   - TUI

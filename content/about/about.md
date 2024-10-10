@@ -16,6 +16,7 @@ title: |2-
     Ph.D. in Design 
     #### Science Columnist for Guokr 
     #### LEGO MOCer
+    #### Dormant Poet
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
