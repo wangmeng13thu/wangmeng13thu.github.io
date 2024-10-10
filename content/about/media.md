@@ -31,7 +31,14 @@ item:
     organization: 2021哈佛中国教育论坛
     title: STEAM与创新教育主题 K-12教育分论坛
     url: https://www.hgseces.org/2021-panels
-
+  - date_start: '2023-04-06'
+    organization: 北京大学工学院
+    title: 跨越数字与物理边界-设计中的模块化界面与实体交互
+    url: https://mp.weixin.qq.com/s/mZQ-zeykg_VfBMQjBcLBjg
+  - date_start: '2021-11-03'
+    organization: 酷玩潮
+    title: 首届酷玩潮积木设计大赛冠军公布！
+    url: https://www.kuwanchao.com/blogs/the-winning-results-of-the-first-cool-and-trendy-building-block-design-contest-announced/
 
 design:
   columns: '1'
