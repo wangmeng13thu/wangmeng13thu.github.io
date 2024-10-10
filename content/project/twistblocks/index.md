@@ -3,7 +3,7 @@
 title: TwistBlocks
 summary: _ACM TEI'18_
 subtitle: TwistBlocks:Pluggable and Twistable Modular TUI for Armature Interaction in 3D Design -- _ACM TEI'18_
-date: 2018-03-10
+lastmod : 2018-03-10
 tags:
   - TUI
 profile: false
