@@ -49,7 +49,7 @@ social:
 
 
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=YtgrFZgAAAAJ
 
 # Link to a PDF of your resume/CV from the About widget.
