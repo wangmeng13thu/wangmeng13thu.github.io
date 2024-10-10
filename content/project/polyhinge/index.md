@@ -1,6 +1,6 @@
 ---
 
-title: TwistBlocks
+title: PolyHinge
 summary: _IADIS IHCI'17_
 subtitle: PolyHinge:Shape Changing TUI on Tabletop -- _IADIS IHCI'17_
 tags:
