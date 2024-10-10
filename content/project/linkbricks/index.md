@@ -3,6 +3,7 @@
 title: LinkBricks
 summary: _IEEE RO-MAN'20_
 subtitle: LinkBricks:A Construction Kit for Intuitively Creating and Programming Interactive Robots -- _IEEE RO-MAN'20_
+date: 2020-08-31
 tags:
   - TUI
   - RO
