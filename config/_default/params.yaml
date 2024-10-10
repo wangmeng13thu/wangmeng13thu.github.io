@@ -18,15 +18,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Meng Wang (王濛) is a HCI & Robotics researcher in BIGAI, with a Ph.D. degree from Tsinghua University.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'Xortc0vdQA_J7cXbKa4pM1d6ZROqnWKVHJKkddUuqeQ'
     baidu: ''
 
 # Site header
