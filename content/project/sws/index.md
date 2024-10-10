@@ -1,6 +1,6 @@
 ---
 
-title: Single-wheeled Swarm
+title: MonoSwarm
 summary: _IEEE IROS'23_
 subtitle: "Aggregating Single-wheeled Mobile Robots for Omnidirectional Movements -- _IEEE IROS'23_"
 lastmod : 2023-10-05
