@@ -3,7 +3,7 @@
 title: Modular GelSight
 summary: _IEEE IROS'24_
 subtitle: "Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers -- _IEEE IROS'24_"
-lastmod : 2024-10-15
+lastmod : 2024-10-10
 tags:
   - TAC
 profile: false
