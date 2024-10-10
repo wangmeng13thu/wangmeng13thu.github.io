@@ -14,11 +14,12 @@ weight: 10
 
 title: |2-
     Ph.D. in Design 
+    {style="font-size:40px; "}
     ## Science Columnist✍️ for Guokr 
     {style="font-size:20px; "}
     ## LEGO MOCer🧱
     {style="font-size:20px; "}
-    ## Dormant Poet
+    ## Dormant Poet💤
     {style="font-size:20px; "}
 
 # Choose the user profile to display
