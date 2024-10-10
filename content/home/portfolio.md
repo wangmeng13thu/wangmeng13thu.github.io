@@ -31,9 +31,9 @@ content:
     - name: TUI
       tag: TUI
     - name: Robotics
-      tag: CV
-    - name: NLP
-      tag: NLP
+      tag: RO
+    - name: Tactile
+      tag: TAC
 
 design:
   columns: '1'
