@@ -3,7 +3,7 @@
 title: Tangible Tetris
 summary: _Leonardo 2019_
 subtitle: "Tangible Tetris -- _Leonardo 2019_"
-lastmod : 2019-04-01
+lastmod: 2019-04-01
 tags:
   - TUI
 profile: false
