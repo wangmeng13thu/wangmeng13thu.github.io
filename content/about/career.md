@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Scientist 
     company: |2-
-        * National Key Laboratory of General Artificial Intelligence
+        * State Key Laboratory of General Artificial Intelligence
         * Beijing Institute for General Artificial Intelligence 
     company_url: ''
     #company_logo: org-x
