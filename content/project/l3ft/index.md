@@ -1,6 +1,6 @@
 ---
 
-title: L^3 F-TOUCH
+title: L<sup>3</sup> F-TOUCH
 summary: _IEEE RA-L 2023_
 subtitle: "L^3 F-TOUCH: A wireless GelSight with decoupled tactile and three-Axis force sensing -- _IEEE RA-L 2023_"
 lastmod : 2023-07-05
