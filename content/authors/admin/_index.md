@@ -10,7 +10,7 @@ role: 'Research Scientist'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Organizations/Affiliations
 organizations:
