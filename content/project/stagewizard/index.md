@@ -3,7 +3,7 @@
 title: Stage Wizard
 summary: _ACM TEI'25_
 subtitle: "Stage Wizard: Enhancing Tangible Storytelling with Multimodal LLMs -- _ACM TEI'25_"
-lastmod : 2024-11-15
+lastmod : 2024-11-20
 tags:
   - TUI
 profile: false
