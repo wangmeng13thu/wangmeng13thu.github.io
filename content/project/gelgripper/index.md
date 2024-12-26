@@ -14,7 +14,7 @@ links:
   - icon_pack: fas
     icon: link
     name: paper
-    url: ''
+    url: 'https://ieeexplore.ieee.org/document/10801566'
   # - icon_pack: fas
   #   icon: film
   #   name: video
