@@ -3,7 +3,7 @@
 title: E-body
 summary: _Leonardo 2025_
 subtitle: "Towards Future Learning with Tangible and Embodied AI Workshops -- _Leonardo 2025_"
-lastmod: 2024-11-11
+lastmod: 2025-01-01
 tags:
   - TUI
 profile: false
@@ -14,7 +14,7 @@ links:
   - icon_pack: fas
     icon: link
     name: paper
-    url: ''
+    url: 'https://doi.org/10.1162/leon_a_02672'
   # - icon_pack: fas
   #   icon: film
   #   name: video
