@@ -1,8 +1,8 @@
 ---
 
 title: F-TAC
-summary: _Nat Mach Intell'25_
-subtitle: "Embedding high-resolution touch across robotic hands enables adaptive human-like grasping -- _Nat Mach Intell'25_"
+summary: _Nat Mach Intell 2025_
+subtitle: "Embedding high-resolution touch across robotic hands enables adaptive human-like grasping -- _Nat Mach Intell 2025_"
 lastmod : 2025-06-09
 tags:
   - TAC
