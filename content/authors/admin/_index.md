@@ -6,7 +6,7 @@ title: Meng Wang (王濛)
 superuser: true
 
 # Role/position
-role: 'Research Scientist（副研究员）'
+role: 'Research Scientist (副研究员)'
 
 # Status emoji
 status:
