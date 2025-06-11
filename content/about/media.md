@@ -39,6 +39,10 @@ item:
     organization: 酷玩潮
     title: 首届酷玩潮积木设计大赛冠军公布！
     url: https://www.kuwanchao.com/blogs/the-winning-results-of-the-first-cool-and-trendy-building-block-design-contest-announced/
+  - date_start: '2025-06-10'
+    organization: 新华社
+    title: 中国科学家在《自然·机器智能》上露了一“手”
+    url: https://h.xinhuaxmt.com/vh512/share/12582982
 
 design:
   columns: '1'
