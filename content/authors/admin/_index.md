@@ -20,8 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-title: |2-
+interests: |2-
     ## Tangible Interfaces
     {style="font-size:20px; "}
     ## Modular Robotics
