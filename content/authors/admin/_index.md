@@ -21,11 +21,15 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Tangible Interfaces
-- Modular Robotics
-- Computational Design
-- Tactile Interaction 
-
+title: |2-
+    ## Tangible Interfaces
+    {style="font-size:20px; "}
+    ## Modular Robotics
+    {style="font-size:20px; "}
+    ## Computational Design
+    {style="font-size:20px; "}
+    ## Tactile Interaction 
+    {style="font-size:20px; "}
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence

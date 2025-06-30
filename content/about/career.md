@@ -34,7 +34,9 @@ experience:
     description: |2-
         * CCF Senior Member
         * Executive committee member of CCF HCI
-        * ACM SIGCHI GMTA recipient
+        * ACM SIGCHI GMTA recipient (2025)
+        * ACM TEI Honorable Mentions (2024)
+        * IEEE IROS Best Paper Finalist (2023)
 
   - title: Postdoctoral Researcher 
     company: Tsinghua University Future Laboratory 
