@@ -23,8 +23,8 @@ organizations:
 interests:
 - Tangible Interfaces
 - Modular Robotics
-- Intelligence Design
-- Tactile Sensing 
+- Computational Design
+- Tactile Interaction 
 
 #education:
 #  courses:

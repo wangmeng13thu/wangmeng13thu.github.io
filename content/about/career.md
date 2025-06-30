@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Scientist 
+  - title: Research Scientist, PI of Intelligent Sensing Hardware 
     company: |2-
         * State Key Laboratory of General Artificial Intelligence
         * Beijing Institute for General Artificial Intelligence 
@@ -34,6 +34,7 @@ experience:
     description: |2-
         * CCF Senior Member
         * Executive committee member of CCF HCI
+        * ACM SIGCHI GMTA recipient
 
   - title: Postdoctoral Researcher 
     company: Tsinghua University Future Laboratory 
