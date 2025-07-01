@@ -32,8 +32,8 @@ experience:
     date_start: '2021-09-01'
 
     description: |2-
-        * CCF Senior Member
-        * Executive committee member of CCF HCI
+        * China Computer Federation (CCF) Senior Member
+        * Executive Committee Member of CCF HCI
         * ACM SIGCHI GMTA recipient (2025)
         * ACM TEI Honorable Mentions (2024)
         * IEEE IROS Best Paper Finalist (2023)
