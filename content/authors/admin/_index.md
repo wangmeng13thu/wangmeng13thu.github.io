@@ -22,8 +22,9 @@ organizations:
 
 interests:
 - Tangible Interfaces (实体交互)
-- Modular Robotics
-- Tactile Interaction 
+- Tactile Interaction  (触觉交互)
+- Modular Robotics (模块化机器人)
+
 
 #education:
 #  courses:

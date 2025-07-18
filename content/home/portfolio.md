@@ -28,12 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: TUI实体交互
+    - name: Tangible
       tag: TUI
-    - name: Robotics
-      tag: RO
     - name: Tactile
       tag: TAC
+    - name: Robotics
+      tag: RO
+
 
 design:
   columns: '1'
