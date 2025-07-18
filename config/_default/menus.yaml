@@ -7,9 +7,9 @@ main:
   - name: Projects
     url: /
     weight: 10
-  - name: Bio
+  - name: CV
     url: about/
     weight: 20
-  - name: (ZH)
+  - name: Bio(ZH)
     url: biozh/
     weight: 30
