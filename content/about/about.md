@@ -14,13 +14,13 @@ weight: 10
 
 title: |2-
     Ph.D. in Design 
-    {style="font-size:40px; "}
+    {style="font-size:42px; "}
     ## Science Columnist✍️ for Guokr 
-    {style="font-size:20px; "}
+    {style="font-size:22px; "}
     ## LEGO MOCer🧱
-    {style="font-size:20px; "}
+    {style="font-size:22px; "}
     ## Dormant Poet💤
-    {style="font-size:20px; "}
+    {style="font-size:22px; "}
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
