@@ -21,9 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Tangible Interfaces (实体交互)
-- Tactile Interaction  (触觉交互)
-- Modular Robotics (模块化机器人)
+- Tangible Interfaces 
+- Tactile Interaction 
+- Modular Robotics 
 
 
 #education:
