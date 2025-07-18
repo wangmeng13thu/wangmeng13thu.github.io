@@ -15,7 +15,7 @@ status:
 # Organizations/Affiliations
 organizations:
 - name: 北京通用人工智能研究院
-- name: 跨媒体通用人工智能全国重点实验室{style="font-size:4px; "}
+- name: 跨媒体通用人工智能全国重点实验室
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
