@@ -10,3 +10,6 @@ main:
   - name: Bio
     url: about/
     weight: 20
+  - name: (ZH)
+    url: biozh/
+    weight: 30
