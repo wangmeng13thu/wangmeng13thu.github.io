@@ -4,7 +4,7 @@
 widget: about
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -27,3 +27,4 @@ title: |2-
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
 ---
+xxx
