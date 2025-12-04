@@ -14,7 +14,7 @@ links:
   - icon_pack: fas
     icon: link
     name: paper
-    url: ''
+    url: 'https://doi.org/10.1145/3758871.3758874'
   # - icon_pack: fas
   #   icon: film
   #   name: video

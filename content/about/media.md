@@ -23,6 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2025-11-26'
+    organization: Science Robotics
+    title: Editors' Choice - Adaptive humanlike grasping 
+    url: https://www.science.org/doi/10.1126/scirobotics.aed8734
   - date_start: '2020-03-13'
     organization: 清华博士后
     title: 清华“水木学者”系列专访—— 王濛：交叉学科背景下的人机交互探索 
