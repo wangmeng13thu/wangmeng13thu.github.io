@@ -6,6 +6,7 @@ subtitle: "Large-scale Deployment of Vision-based Tactile Sensors on Multi-finge
 lastmod : 2024-10-10
 tags:
   - TAC
+  - RO
 profile: false
 share: false
 show_date: false

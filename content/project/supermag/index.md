@@ -6,6 +6,7 @@ subtitle: "SuperMag: Vision-based Tactile Data Guided High-resolution Tactile Sh
 lastmod : 2025-10-12
 tags:
   - TAC
+  - RO
 profile: false
 share: false
 show_date: false
@@ -14,7 +15,7 @@ links:
   - icon_pack: fas
     icon: link
     name: paper
-    url: ''
+    url: 'https://ieeexplore.ieee.org/abstract/document/11246193'
   # - icon_pack: fas
   #   icon: film
   #   name: video

@@ -6,6 +6,7 @@ subtitle: "L3 F-TOUCH: A wireless GelSight with decoupled tactile and three-Axis
 lastmod : 2023-07-05
 tags:
   - TAC
+  - RO
 profile: false
 share: false
 show_date: false
